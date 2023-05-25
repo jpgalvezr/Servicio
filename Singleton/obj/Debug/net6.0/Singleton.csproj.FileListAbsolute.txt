@@ -1,0 +1,15 @@
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\bin\Debug\net6.0\Singleton.exe
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\bin\Debug\net6.0\Singleton.deps.json
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\bin\Debug\net6.0\Singleton.runtimeconfig.json
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\bin\Debug\net6.0\Singleton.dll
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\bin\Debug\net6.0\Singleton.pdb
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.dll
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\refint\Singleton.dll
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.pdb
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+C:\Proyectos\Firefly\FullStack\Sesiones\Sesion20\NuevosEjercicios\Singleton\Singleton\obj\Debug\net6.0\ref\Singleton.dll
